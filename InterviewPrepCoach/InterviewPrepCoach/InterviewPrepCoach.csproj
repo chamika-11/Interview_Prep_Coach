@@ -22,8 +22,6 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="InterviewPrepCoach.sln\InterviewPrepCoach.Core\" />
-    <Folder Include="InterviewPrepCoach.sln\InterviewPrepCoach.Infrastructure\" />
     <Folder Include="InterviewPrepCoach.sln\InterviewPrepCoach.Tests\" />
   </ItemGroup>
 

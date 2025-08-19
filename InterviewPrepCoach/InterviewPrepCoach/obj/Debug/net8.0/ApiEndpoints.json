@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "input",
-        "Type": "ResumeInput",
+        "Type": "InterviewPrepCoach.Core.ResumeInput",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "input",
-        "Type": "QuestionInput",
+        "Type": "InterviewPrepCoach.Core.QuestionInput",
         "IsRequired": true
       }
     ],
@@ -41,7 +41,7 @@
     "Parameters": [
       {
         "Name": "input",
-        "Type": "JdInput",
+        "Type": "InterviewPrepCoach.Core.JdInput",
         "IsRequired": true
       }
     ],

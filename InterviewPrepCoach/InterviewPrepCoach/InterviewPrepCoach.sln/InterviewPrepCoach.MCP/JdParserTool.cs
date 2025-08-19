@@ -1,29 +1,26 @@
-﻿using InterviewPrepCoach.InterviewPrepCoach.sln.InterviewPrepCoach.MCP;
+﻿using InterviewPrepCoach.Core;
+using InterviewPrepCoach.Infrastructure;
+using InterviewPrepCoach.InterviewPrepCoach.sln.InterviewPrepCoach.MCP;
 
-public class JdInput
-{
-    public string JobDescriptionText { get; set; } = string.Empty;
-}
 
-public class JdOutput
-{
-    public List<string> Skills { get; set; } = new();
-    public List<string> Responsibilities { get; set; } = new();
-    public List<string> NiceToHaves { get; set; } = new();
-}
+namespace InterviewPrepCoach.MCP;
+
 
 public class JdParserTool : IMcpTool<JdInput, JdOutput>
 {
+    private readonly LLMService _llm;
     public string Name => "jd_parser";
+
+
+    public JdParserTool(LLMService llm) => _llm = llm;
+
 
     public async Task<JdOutput> ExecuteAsync(JdInput input)
     {
-        // Call LLM to parse job description (stubbed for now)
-        return new JdOutput
-        {
-            Skills = new List<string> { "Angular", ".NET", "REST APIs" },
-            Responsibilities = new List<string> { "Develop APIs", "Write tests" },
-            NiceToHaves = new List<string> { "Azure knowledge" }
-        };
+        var system = "You parse job descriptions into structured JSON for recruiters.";
+        var user = "Parse into JSON with keys: skills[], responsibilities[], niceToHaves[].\nJD Text:\n" + input.JobDescriptionText;
+        var json = await _llm.GetJsonAsync(system, user);
+        try { return System.Text.Json.JsonSerializer.Deserialize<JdOutput>(json) ?? new(); }
+        catch { return new JdOutput(); }
     }
 }

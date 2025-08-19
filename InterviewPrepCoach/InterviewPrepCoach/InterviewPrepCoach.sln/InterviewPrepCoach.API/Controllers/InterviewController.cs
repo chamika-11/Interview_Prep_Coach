@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using InterviewPrepCoach.Core;
+using InterviewPrepCoach.MCP;
+using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -8,11 +10,15 @@ public class InterviewController : ControllerBase
     private readonly JdParserTool _jdTool;
     private readonly QuestionGeneratorTool _questionTool;
 
-    public InterviewController()
+    // Tools are injected by ASP.NET Core
+    public InterviewController(
+        ResumeAnalyzerTool resumeTool,
+        JdParserTool jdTool,
+        QuestionGeneratorTool questionTool)
     {
-        _resumeTool = new ResumeAnalyzerTool();
-        _jdTool = new JdParserTool();
-        _questionTool = new QuestionGeneratorTool();
+        _resumeTool = resumeTool;
+        _jdTool = jdTool;
+        _questionTool = questionTool;
     }
 
     [HttpPost("analyze-resume")]

@@ -7,6 +7,38 @@
       "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.mcp\\questiongeneratortool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.mcp\\questiongeneratortool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.mcp\\jdparsertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.mcp\\jdparsertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.mcp\\resumeanalyzertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.mcp\\resumeanalyzertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.infrastructure\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.infrastructure\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.infrastructure\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.infrastructure\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.core\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.core\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.core\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.core\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|e:\\projects\\interview_prep_coach\\interviewprepcoach\\interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.api\\controllers\\interviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E63412F7-AF73-4DAC-8816-DA2596287833}|InterviewPrepCoach\\InterviewPrepCoach.csproj|solutionrelative:interviewprepcoach\\interviewprepcoach.sln\\interviewprepcoach.api\\controllers\\interviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +50,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionGeneratorTool.cs",
+              "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\QuestionGeneratorTool.cs",
+              "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\QuestionGeneratorTool.cs",
+              "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\QuestionGeneratorTool.cs",
+              "RelativeToolTip": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\QuestionGeneratorTool.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:40:39.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JdParserTool.cs",
+              "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\JdParserTool.cs",
+              "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\JdParserTool.cs",
+              "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\JdParserTool.cs",
+              "RelativeToolTip": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\JdParserTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:40:21.78Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LLMService.cs",
+              "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\LLMService.cs",
+              "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\LLMService.cs",
+              "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\LLMService.cs*",
+              "RelativeToolTip": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\LLMService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:43:03.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResumeAnalyzerTool.cs",
+              "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\ResumeAnalyzerTool.cs",
+              "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\ResumeAnalyzerTool.cs",
+              "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\ResumeAnalyzerTool.cs",
+              "RelativeToolTip": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.MCP\\ResumeAnalyzerTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:34:09.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\StorageService.cs",
+              "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\StorageService.cs",
+              "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\StorageService.cs",
+              "RelativeToolTip": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\StorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:31:01.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:30:26.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Core\\DTOs.cs",
+              "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Core\\DTOs.cs",
+              "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Core\\DTOs.cs",
+              "RelativeToolTip": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Core\\DTOs.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:20:21.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,14 +155,27 @@
               "RelativeDocumentMoniker": "InterviewPrepCoach\\Program.cs",
               "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\Program.cs",
               "RelativeToolTip": "InterviewPrepCoach\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T07:33:22.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Core\\Entities.cs",
+              "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Core\\Entities.cs",
+              "ToolTip": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Core\\Entities.cs",
+              "RelativeToolTip": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.Core\\Entities.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:17:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "InterviewController.cs",
               "DocumentMoniker": "E:\\Projects\\Interview_Prep_Coach\\InterviewPrepCoach\\InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.API\\Controllers\\InterviewController.cs",
               "RelativeDocumentMoniker": "InterviewPrepCoach\\InterviewPrepCoach.sln\\InterviewPrepCoach.API\\Controllers\\InterviewController.cs",
