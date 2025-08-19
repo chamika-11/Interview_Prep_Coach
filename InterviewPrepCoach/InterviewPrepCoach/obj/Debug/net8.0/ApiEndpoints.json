@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "InterviewController",
+    "Method": "AnalyzeResume",
+    "RelativePath": "api/Interview/analyze-resume",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "ResumeInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InterviewController",
+    "Method": "GenerateQuestions",
+    "RelativePath": "api/Interview/generate-questions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "QuestionInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InterviewController",
+    "Method": "ParseJd",
+    "RelativePath": "api/Interview/parse-jd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "JdInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
