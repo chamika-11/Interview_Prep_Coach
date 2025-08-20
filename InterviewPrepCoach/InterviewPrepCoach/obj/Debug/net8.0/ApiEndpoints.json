@@ -1,48 +1,41 @@
 [
   {
     "ContainingType": "InterviewController",
-    "Method": "AnalyzeResume",
-    "RelativePath": "api/Interview/analyze-resume",
+    "Method": "UploadResume",
+    "RelativePath": "api/Interview/upload-resume",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "input",
-        "Type": "InterviewPrepCoach.Core.ResumeInput",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "InterviewController",
-    "Method": "GenerateQuestions",
-    "RelativePath": "api/Interview/generate-questions",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
+        "Name": "ContentType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
       {
-        "Name": "input",
-        "Type": "InterviewPrepCoach.Core.QuestionInput",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "InterviewController",
-    "Method": "ParseJd",
-    "RelativePath": "api/Interview/parse-jd",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
+        "Name": "ContentDisposition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
       {
-        "Name": "input",
-        "Type": "InterviewPrepCoach.Core.JdInput",
-        "IsRequired": true
+        "Name": "Headers",
+        "Type": "Microsoft.AspNetCore.Http.IHeaderDictionary",
+        "IsRequired": false
+      },
+      {
+        "Name": "Length",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

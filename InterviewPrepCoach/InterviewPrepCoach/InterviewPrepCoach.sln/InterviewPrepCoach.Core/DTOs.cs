@@ -4,6 +4,7 @@
 public class ResumeInput
 {
     public string ResumePath { get; set; } = string.Empty; // used internally after upload
+    public string Text { get; internal set; }
 }
 
 
@@ -12,6 +13,11 @@ public class ResumeOutput
     public List<string> Skills { get; set; } = new();
     public string ExperienceSummary { get; set; } = string.Empty;
     public List<string> Gaps { get; set; } = new();
+}
+
+public class ResumeUploadRequest
+{
+    public IFormFile File { get; set; }
 }
 
 

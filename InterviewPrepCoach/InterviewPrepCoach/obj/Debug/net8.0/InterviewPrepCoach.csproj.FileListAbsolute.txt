@@ -180,3 +180,13 @@ E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\obj\Debug
 E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\obj\Debug\net8.0\InterviewPrepCoach.pdb
 E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\obj\Debug\net8.0\InterviewPrepCoach.genruntimeconfig.cache
 E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\obj\Debug\net8.0\ref\InterviewPrepCoach.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\SkiaSharp.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\Xceed.Document.NET.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\Xceed.Drawing.NET.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\Xceed.PDF.NET.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\Xceed.Words.NET.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Projects\Interview_Prep_Coach\InterviewPrepCoach\InterviewPrepCoach\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll

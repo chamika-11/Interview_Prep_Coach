@@ -83,6 +83,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Xceed.Words.NET": {
+              "target": "Package",
+              "version": "[5.0.25228.6154, )"
             }
           },
           "imports": [
